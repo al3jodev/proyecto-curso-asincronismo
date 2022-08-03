@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto Final del curso de asincronismo con Javascrupt",
+  "main": "index.js",
+  "scripts": {
+    "deploy-gh-pages": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al3jodev/proyecto-curso-asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al3jodev/proyecto-curso-asincronismo/issues"
+  },
+  "homepage": "https://github.com/al3jodev/proyecto-curso-asincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
